@@ -1,4 +1,4 @@
-# LSS02s-Mythical-Exploration
+# LSS02s-Mythic-Exploration
 
 Here you can find pre-configured files and other things.
 
