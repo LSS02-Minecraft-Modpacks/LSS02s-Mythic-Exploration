@@ -19,9 +19,3 @@ Here you can find pre-configured files and other things.
   List of incompatible mods
   - Inventorio
   - Sinytra Connector (and all related mods)
-3. Pack crash with Midnight Lib error
-  Only restart the pack and you remain window opened in foreground
-4. Modpack crash on mohist
-  Follow this steps:
-  - Remove MaxHealthFix
-  - Restart server
