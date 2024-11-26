@@ -1,0 +1,16 @@
+{
+	default: {
+		name: "default"
+		power: 1
+		condition: {
+          type: "not"
+          condition: {type: "op"}
+        }
+        command.enderchest: false
+        command.hat: false
+        command.kickme: false
+        command.leaderboard: false
+        command.nickname: false
+        command.rtp: false
+	}
+}
