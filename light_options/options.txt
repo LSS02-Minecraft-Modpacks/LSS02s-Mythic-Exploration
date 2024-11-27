@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"fast"
-resourcePacks:["vanilla","mod_resources","Moonlight Mods Dynamic Assets","file/MythicExploration_ResourcePack_v1.0.zip"]
+resourcePacks:["vanilla","mod_resources","Moonlight Mods Dynamic Assets","file/MythicExploration_ResourcePack_v1.1.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:it_it
