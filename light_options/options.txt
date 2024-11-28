@@ -45,7 +45,7 @@ renderClouds:"fast"
 resourcePacks:["vanilla","mod_resources","Moonlight Mods Dynamic Assets","file/MythicExploration_ResourcePack_v1.1.zip"]
 incompatibleResourcePacks:[]
 lastServer:
-lang:it_it
+lang:en_us
 soundDevice:""
 chatVisibility:0
 chatOpacity:1.0
